@@ -1,0 +1,5 @@
+*.pyc
+_pycache_
+my_website
+db.sqlite3
+.DS_Store
